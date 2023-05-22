@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/spring-007396?style=plastic-square&logo=spring&logoColor=green"/>
 ----
-[![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/Java)
+[![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=red)](https://developer.mozilla.org/en-US/docs/Web/Java)
 [![Spring](https://img.shields.io/badge/Spring-43853D?style=for-the-badge&logo=Spring&logoColor=white)](https://Spring.org/)
 ----
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcj0519)](https://solved.ac/lcj0519)

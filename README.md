@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ----
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcj0519)](https://solved.ac/lcj0519)
 
-[![ckswo00's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckswo00&show_icons=true&theme=radical)
+[![ ckswo00's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckswo00&show_icons=true&theme=radical)

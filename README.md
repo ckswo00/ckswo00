@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/spring-007396?style=plastic-square&logo=spring&logoColor=green"/>
+<img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/spring-007396?style=plastic-square&logo=spring&logoColor=green"/>
+----
+[![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/Java)
 ----
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcj0519)](https://solved.ac/lcj0519)
 [![ ckswo00's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckswo00&show_icons=true&theme=radical)
